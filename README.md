@@ -1,5 +1,7 @@
 # Jekyll with Tailwind
 
+Barebone minimal jekyll starter with tailwind css
+
 ## About
 
 This project uses [jekyll-postcss](https://github.com/mhanberg/jekyll-postcss) to manage compiling your Tailwind. You can use any [PostCSS](https://postcss.org) plugin by installing it with `yarn` or `npm` and adding it to your `postcss.config.js`.
